@@ -1,6 +1,6 @@
-# hegg
+# Sesa
 
-A new Flutter project.
+A Unit Converter App with flutter.
 
 ## Getting Started
 
